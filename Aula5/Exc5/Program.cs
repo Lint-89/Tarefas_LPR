@@ -16,6 +16,3 @@ Console.WriteLine("Para você alcançar 1000 horas de treinamento, você precisa
 Console.WriteLine($"{semanasNecessarias} semanas");
 Console.WriteLine($"{diasNecessarios} dias");
 Console.WriteLine($"{mesesNecessarios} meses");
-
-
-
