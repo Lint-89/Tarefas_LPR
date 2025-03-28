@@ -8,8 +8,8 @@ double horasTreinamentoPorSemana = horasTreinamento * DiasdaSemana;
 Console.WriteLine("O número de horas de treinamento por semana é: " + horasTreinamentoPorSemana);
 
 double horasTotal = 1000;
-double semanasNecessarias = totalHoras / horasPorSemana;
-double diasNecessarios = semanasNecessarias * diasPorSemana;
+double semanasNecessarias = horasTotal / horasTreinamentoPorSemana;
+double diasNecessarios = semanasNecessarias * DiasdaSemana;
 double mesesNecessarios = semanasNecessarias / 4.5;
 
 Console.WriteLine("Para você alcançar 1000 horas de treinamento, você precisará de:");
