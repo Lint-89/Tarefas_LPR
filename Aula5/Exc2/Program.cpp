@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <locale>
 #include <random>
+
 using namespace std;
 
 int main() {
@@ -11,7 +12,7 @@ uniform_int_distribution<> distribuicao(1,100);
 int valorInteiro = distribuicao(numAleatorio);
 
 do{ 
-    cout << "Digite um valor que você ache q é o número";
+    cout << "Digite um valor que você ache que é o número ";
     cin >> numero;
     contador ++;
 

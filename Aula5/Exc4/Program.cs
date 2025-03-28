@@ -8,7 +8,7 @@
         soma += quadrado % 10; 
           quadrado /=10;
         }
-        Console.WriteLine("A soma dos dígitos do quadrado é: " + soma);
+        Console.WriteLine("A soma dos dígitos do quadrado do número é: " + soma);
     
         
     
