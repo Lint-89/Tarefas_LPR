@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\bin\Debug\net9.0\Exc1.exe
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\bin\Debug\net9.0\Exc1.deps.json
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\bin\Debug\net9.0\Exc1.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\bin\Debug\net9.0\Exc1.dll
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\bin\Debug\net9.0\Exc1.pdb
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\obj\Debug\net9.0\Exc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\obj\Debug\net9.0\Exc1.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\obj\Debug\net9.0\Exc1.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\obj\Debug\net9.0\Exc1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\obj\Debug\net9.0\Exc1.sourcelink.json
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\obj\Debug\net9.0\Exc1.dll
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\obj\Debug\net9.0\refint\Exc1.dll
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\obj\Debug\net9.0\Exc1.pdb
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\obj\Debug\net9.0\Exc1.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\Tarefas_LPR\Exc1\obj\Debug\net9.0\ref\Exc1.dll
