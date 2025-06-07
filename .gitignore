@@ -1,8 +1,5 @@
-**/.vscode/
-**/.vs/
+*
 
-**/bin/
-**/obj/
-**/output/
-
-*.sln
+!1o_Trimestre/
+!2o_Trimestre/
+!README.md
