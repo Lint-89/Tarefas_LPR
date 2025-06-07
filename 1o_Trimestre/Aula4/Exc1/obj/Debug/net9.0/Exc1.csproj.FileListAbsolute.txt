@@ -1,0 +1,15 @@
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\bin\Debug\net9.0\Exc1.exe
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\bin\Debug\net9.0\Exc1.deps.json
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\bin\Debug\net9.0\Exc1.runtimeconfig.json
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\bin\Debug\net9.0\Exc1.dll
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\bin\Debug\net9.0\Exc1.pdb
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\obj\Debug\net9.0\Exc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\obj\Debug\net9.0\Exc1.AssemblyInfoInputs.cache
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\obj\Debug\net9.0\Exc1.AssemblyInfo.cs
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\obj\Debug\net9.0\Exc1.csproj.CoreCompileInputs.cache
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\obj\Debug\net9.0\Exc1.sourcelink.json
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\obj\Debug\net9.0\Exc1.dll
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\obj\Debug\net9.0\refint\Exc1.dll
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\obj\Debug\net9.0\Exc1.pdb
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\obj\Debug\net9.0\Exc1.genruntimeconfig.cache
+C:\Users\alunos\OneDrive\Documentos\GitHub\Tarefas_LPR\Aula4\Exc1\obj\Debug\net9.0\ref\Exc1.dll
