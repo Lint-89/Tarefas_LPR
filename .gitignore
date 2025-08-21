@@ -1,0 +1,12 @@
+**/.vscode/
+**/.vs/
+**/bin/
+**/obj/
+**/output/
+*.sln
+!Tarefas_LPR.sln
+*.user
+*.suo
+*.log
+*.tmp
+*.cache
